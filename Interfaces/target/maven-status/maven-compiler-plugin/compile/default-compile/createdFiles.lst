@@ -1,0 +1,5 @@
+Interfaces\Persona.class
+Interfaces\Principal.class
+Interfaces\MusicoEstudiante.class
+Interfaces\Musico.class
+Interfaces\Estudiante.class
